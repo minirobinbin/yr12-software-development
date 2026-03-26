@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<animals>
+  <animal name="Finn" species="Aardvark" age="4" sex="male">
+    <source name="Coastal Haven Refuge">
+      <address city="Geraldton" state_or_province="WA" country="Australia" />
+    </source>
+    <notes>
+      <note date="12/5/2022">Burrowing at edge. Barrier added.</note>
+      <note date="25/3/2024">Normal feeding behaviour.</note>
+    </notes>
+  </animal>
+  <animal name="Bruce" species="Aardvark" age="5" sex="male">
+    <source name="Tropics Bird Sanctuary">
+      <address city="Darwin" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="30/9/2022">Exploring more.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Aardvark" age="4" sex="female">
+    <source name="Canopy Retreat Sanctuary">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="12/10/2022">Monitor for escape attempts.</note>
+      <note date="2/2/2023">Soil turnover observed.</note>
+    </notes>
+  </animal>
+  <animal name="Ollie" species="Brolga" age="7" sex="male">
+    <source name="Drylands Refuge">
+      <address city="Kalgoorlie" state_or_province="WA" country="Australia" />
+    </source>
+    <notes>
+      <note date="24/11/2024">Active. Good bonding.</note>
+    </notes>
+  </animal>
+  <animal name="Ziggy" species="Brolga" age="10" sex="male">
+    <source name="Eucalyptus Grove Refuge">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="25/11/2022">Vocalizations increased.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Brolga" age="5" sex="female">
+    <source name="Plains Horizon Sanctuary">
+      <address city="AliceSprings" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="9/7/2022">Adjust habitat as needed.</note>
+      <note date="20/11/2023">Social dynamics improving.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Brolga" age="3" sex="female">
+    <source name="Rocky Cliffs Sanctuary">
+      <address city="Adelaide" state_or_province="SA" country="Australia" />
+    </source>
+    <notes>
+      <note date="4/6/2022">Monitoring nesting behaviours.</note>
+    </notes>
+  </animal>
+  <animal name="Daisy" species="Brolga" age="6" sex="female">
+    <source name="Plains Horizon Sanctuary">
+      <address city="AliceSprings" state_or_province="NT" country="Australia" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="" species="Brolga" age="8" sex="female">
+    <source name="Outback Haven Sanctuary">
+      <address city="Koora" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="22/10/2023">Seasonal behaviour noted.</note>
+    </notes>
+  </animal>
+  <animal name="Matilda" species="Dingo" age="4" sex="female">
+    <source name="Eucalyptus Grove Refuge">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="1/3/2023">Minor scuffle. No injuries.</note>
+      <note date="9/9/2023">Social dynamics stable.</note>
+    </notes>
+  </animal>
+  <animal name="Charlie" species="Dingo" age="12" sex="male">
+    <source name="Jungle Habitat Refuge">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="Diesel" species="Dingo" age="7" sex="male">
+    <source name="Desert Oasis Sanctuary">
+      <address city="AliceSprings" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="13/6/2024">Keep watch during feeding.</note>
+      <note date="14/7/2024">Training sessions ongoing.</note>
+    </notes>
+  </animal>
+  <animal name="Kira" species="Giraffe" age="5" sex="female">
+    <source name="Southern Skies Sanctuary">
+      <address city="CapeTown" state_or_province="" country="SouthAfrica" />
+    </source>
+    <notes>
+      <note date="29/2/2024">Neck checked. No injury.</note>
+      <note date="18/4/2024">Feeding well.</note>
+    </notes>
+  </animal>
+  <animal name="Max" species="Giraffe" age="8" sex="male">
+    <source name="Sunset Plains Sanctuary">
+      <address city="Windhoek" state_or_province="" country="Namibia" />
+    </source>
+    <notes>
+      <note date="11/9/2024">Appears relaxed.</note>
+    </notes>
+  </animal>
+  <animal name="Mia" species="Giraffe" age="8" sex="female">
+    <source name="Wetlands Nature Reserve">
+      <address city="Perth" state_or_province="WA" country="Australia" />
+    </source>
+    <notes>
+      <note date="21/11/2024">Enclosure maintained.</note>
+      <note date="26/1/2025">Monitoring for any behavioural changes.</note>
+    </notes>
+  </animal>
+  <animal name="Roxy" species="Giraffe" age="5" sex="female">
+    <source name="Nightshade Wildlife Refuge">
+      <address city="Sydney" state_or_province="NSW" country="Australia" />
+    </source>
+    <notes>
+      <note date="20/4/2022">Social interactions noted.</note>
+    </notes>
+  </animal>
+  <animal name="Wally" species="Green Tree Python" age="7" sex="male">
+    <source name="Bushland Wildlife Center">
+      <address city="Seattle" state_or_province="WA" country="USA" />
+    </source>
+    <notes>
+      <note date="9/10/2023">Shed skin. No concerns.</note>
+      <note date="23/6/2024">Normal activity levels.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Green Tree Python" age="5" sex="female">
+    <source name="Outback Haven Sanctuary">
+      <address city="Koora" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="Maxie" species="Green Tree Python" age="4" sex="male">
+    <source name="Eucalyptus Grove Refuge">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="3/5/2022">Monitoring feeding response.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Green Tree Python" age="6" sex="female">
+    <source name="Desert Oasis Sanctuary">
+      <address city="AliceSprings" state_or_province="NT" country="Australia" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="Molly" species="Green Tree Python" age="4" sex="female">
+    <source name="Bushland Wildlife Center">
+      <address city="Seattle" state_or_province="WA" country="USA" />
+    </source>
+    <notes>
+      <note date="21/12/2023">Ensure proper humidity.</note>
+      <note date="18/12/2024">Regular enclosure cleaning scheduled.</note>
+    </notes>
+  </animal>
+  <animal name="Riley" species="Green Tree Python" age="9" sex="male">
+    <source name="Nightshade Wildlife Refuge">
+      <address city="Sydney" state_or_province="NSW" country="Australia" />
+    </source>
+    <notes>
+      <note date="4/2/2022">Observing basking behaviour.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Green Tree Python" age="7" sex="male">
+    <source name="Wild Tracks Reserve">
+      <address city="Canberra" state_or_province="ACT" country="Australia" />
+    </source>
+    <notes>
+      <note date="17/8/2022">Activity patterns logged weekly.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Green Tree Python" age="4" sex="male">
+    <source name="Bushland Wildlife Center">
+      <address city="Seattle" state_or_province="WA" country="USA" />
+    </source>
+    <notes>
+      <note date="21/1/2025">No health issues reported.</note>
+      <note date="30/1/2025">Diet adjustments ongoing.</note>
+    </notes>
+  </animal>
+  <animal name="Sam" species="Green Tree Python" age="3" sex="male">
+    <source name="Marshland Nature Reserve">
+      <address city="Hobart" state_or_province="TAS" country="Australia" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="Juno" species="Numbat" age="9" sex="male">
+    <source name="Tropical Rainforest Haven">
+      <address city="Darwin" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="25/9/2022">Decreased appetite. Faecal sample sent.</note>
+      <note date="13/11/2022">Monitor closely for behaviour.</note>
+    </notes>
+  </animal>
+  <animal name="Milo" species="Numbat" age="5" sex="male">
+    <source name="Plains Horizon Sanctuary">
+      <address city="AliceSprings" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="14/10/2024">Hiding more than usual.</note>
+      <note date="3/12/2024">Assess diet options.</note>
+    </notes>
+  </animal>
+  <animal name="Rufus" species="Quokka" age="10" sex="male">
+    <source name="Spikes and Stripes Wildlife Park">
+      <address city="Brisbane" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="20/7/2022">Active. No stress.</note>
+      <note date="6/6/2023">Good interaction with enrichment.</note>
+    </notes>
+  </animal>
+  <animal name="Archie" species="Quokka" age="6" sex="male">
+    <source name="Desert Oasis Sanctuary">
+      <address city="AliceSprings" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="16/8/2022">Weight stable.</note>
+    </notes>
+  </animal>
+  <animal name="Hunter" species="Quokka" age="6" sex="male">
+    <source name="Outback Haven Sanctuary">
+      <address city="Koora" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="29/12/2024">No signs of illness.</note>
+      <note date="4/1/2025">Regular check on habitat.</note>
+    </notes>
+  </animal>
+  <animal name="Lola" species="Quokka" age="7" sex="female">
+    <source name="Southern Skies Sanctuary">
+      <address city="CapeTown" state_or_province="" country="SouthAfrica" />
+    </source>
+    <notes>
+      <note date="24/4/2023">Routine health checks scheduled.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Red Panda" age="5" sex="female">
+    <source name="Rainforest Retreat">
+      <address city="ChiangMai" state_or_province="" country="Thailand" />
+    </source>
+    <notes>
+      <note date="25/1/2024">Weight gain. Diet adjustment needed.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Red Panda" age="4" sex="female">
+    <source name="Canopy Retreat Sanctuary">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="25/1/2024">Play behaviour observed.</note>
+      <note date="31/7/2024">Sleeping well.</note>
+    </notes>
+  </animal>
+  <animal name="Poppy" species="Red Panda" age="5" sex="female">
+    <source name="Bushland Wildlife Center">
+      <address city="Seattle" state_or_province="WA" country="USA" />
+    </source>
+    <notes>
+      <note date="12/5/2022">Extra climbing structures added.</note>
+      <note date="14/3/2024">Seasonal behavior changes noted.</note>
+    </notes>
+  </animal>
+  <animal name="Jack" species="Red Panda" age="9" sex="male">
+    <source name="Riverbank Wildlife Refuge">
+      <address city="Launceston" state_or_province="TAS" country="Australia" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="Willow" species="Red Panda" age="5" sex="female">
+    <source name="Marshland Nature Reserve">
+      <address city="Hobart" state_or_province="TAS" country="Australia" />
+    </source>
+    <notes>
+      <note date="24/7/2023">Monitor interactions with keepers.</note>
+    </notes>
+  </animal>
+  <animal name="Tilly" species="Sugar Glider" age="5" sex="female">
+    <source name="Devil Peak Sanctuary">
+      <address city="Reykjavik" state_or_province="" country="Iceland" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="" species="Sugar Glider" age="5" sex="male">
+    <source name="Desert Oasis Sanctuary">
+      <address city="AliceSprings" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="7/5/2024">Increased climbing. More branches added.</note>
+      <note date="31/1/2025">Active at night. Normal behaviour.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Sugar Glider" age="6" sex="female">
+    <source name="Wild Tracks Reserve">
+      <address city="Canberra" state_or_province="ACT" country="Australia" />
+    </source>
+    <notes>
+      <note date="4/6/2023">Social interactions noted.</note>
+    </notes>
+  </animal>
+  <animal name="Zara" species="Sugar Glider" age="4" sex="female">
+    <source name="Marshland Nature Reserve">
+      <address city="Hobart" state_or_province="TAS" country="Australia" />
+    </source>
+    <notes>
+      <note date="16/1/2024">Regular health check.</note>
+      <note date="31/8/2024">Monitoring nocturnal patterns.</note>
+    </notes>
+  </animal>
+  <animal name="Bella" species="Sugar Glider" age="8" sex="female">
+    <source name="Nightshade Wildlife Refuge">
+      <address city="Sydney" state_or_province="NSW" country="Australia" />
+    </source>
+    <notes>
+      <note date="18/1/2023">Activity level recorded nightly.</note>
+    </notes>
+  </animal>
+  <animal name="Ruby" species="Sugar Glider" age="12" sex="female">
+    <source name="Eagle Nest Sanctuary">
+      <address city="Perth" state_or_province="WA" country="Australia" />
+    </source>
+    <notes>
+      <note date="13/8/2024">Behaviour consistent with species.</note>
+      <note date="18/9/2024">Reviewing dietary options.</note>
+    </notes>
+  </animal>
+  <animal name="Oscar" species="Sugar Glider" age="3" sex="male">
+    <source name="Bushland Wildlife Center">
+      <address city="Seattle" state_or_province="WA" country="USA" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="" species="Swamp Wallaby" age="6" sex="male">
+    <source name="Canopy Retreat Sanctuary">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="20/4/2023">Limp detected. Vet notified.</note>
+      <note date="6/1/2025">Eating well. Monitoring recovery.</note>
+    </notes>
+  </animal>
+  <animal name="" species="Swamp Wallaby" age="9" sex="male">
+    <source name="Tropics Bird Sanctuary">
+      <address city="Darwin" state_or_province="NT" country="Australia" />
+    </source>
+    <notes>
+      <note date="28/9/2024">Review enclosure comfort.</note>
+      <note date="27/1/2025">Gradual reintroduction to group planned.</note>
+    </notes>
+  </animal>
+  <animal name="Gus" species="Tree Kangaroo" age="6" sex="male">
+    <source name="Outback Haven Sanctuary">
+      <address city="Koora" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="6/12/2023">Limping. Potential sprain. Monitoring.</note>
+    </notes>
+  </animal>
+  <animal name="Luna" species="Tree Kangaroo" age="7" sex="female">
+    <source name="Rocky Cliffs Sanctuary">
+      <address city="Adelaide" state_or_province="SA" country="Australia" />
+    </source>
+    <notes />
+  </animal>
+  <animal name="Hazel" species="Tree Kangaroo" age="5" sex="female">
+    <source name="Canopy Retreat Sanctuary">
+      <address city="Cairns" state_or_province="QLD" country="Australia" />
+    </source>
+    <notes>
+      <note date="1/3/2023">Adjusted feeding schedule.</note>
+    </notes>
+  </animal>
+</animals>
